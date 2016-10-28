@@ -26,27 +26,17 @@ At this stage we are looking from which websites we can scrap the data and which
 
 ### Inventory of data sources
 
-|Site|Comments|Allowed (scraping)|Disallowed (scraping)|API|API Reference
-|----|--------|:-----:|:--------:|---
-
+|Site|Comments|Allowed (scraping)|Disallowed (scraping)|API|API Reference|
+|----|--------|:-----:|:--------:|---|---|
 |Glassdoor.com|Has mostly disallows. Because we are going to be using the search, I don't think we are allowed to crawl.||x|Yes|https://www.glassdoor.com/developer/index.htm
-
 |usajobs.com|Disallows scripts||x|Yes|https://developer.usajobs.gov/API-Reference
-
 |dice.com|Disallows jobsearch||x|Yes|http://www.dice.com/common/content/util/apidoc/jobsearch.html
-
 |snagajob.com|Disallows basically everything||x|No|-|
-
 |simplyhired.com|Links to other sites, disallows job details but not job SEARCH||x|No|-|
-
 |careerbuilder.com|Disallows everything unless you're the googlebot||x|Yes|Requested key
-
 |careerinfonet.org|There's a lot that is disallowed, but I don't see anything that is clearly disallowing what we aim to do. Worth another look.||x|No|-|
-
 |indeed.com|Mostly disallows everything ||x|Yes|Requested key|
-
 |monster.com|Mostly disallows evferything||x|Yes|Regestration is required for access which is in progress|
-
 |linkedin.com|Allows scraping with permission||x|Yes|https://api.linkedin.com/v1/people/~?format=json (but an access token is required which is requested)|
 
 ## Data Processing 
