@@ -2,7 +2,11 @@
 Authors: Sameer NANDIKAR, Byron ENG <br>
 CS 5963 / MATH 3900 <br>
 
-## First steps
+## Construct some sample data
+
+This could be from as little as one of the web sites. I would like to have some code in place so we can test taking user input and mining the APIs for relevant data.
+
+## ~~First steps~~
 
 I think one of our first steps should be to inventory which sites we can actually pull data from. For example, which ones have APIs and which ones can we crawl via search results based on user input (ie. User puts in "Mechanical Engineer", our program would need to crawl search results for "Mechanical Engineer".. I don't see that being possible from all sites.
 
