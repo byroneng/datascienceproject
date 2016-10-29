@@ -1,5 +1,5 @@
 # Crawling the Job Market
-Authors: Sameer NANDIKAR(u1010576), Byron ENG <br>
+Authors: Sameer NANDIKAR (u1010576), Byron ENG (u0824780)<br>
 CS 5963 / MATH 3900 <br>
 email id: sameer.nandikar@gmail.com 
           ; byron.eng@gmail.com
@@ -9,7 +9,7 @@ We the authors of this project will be graduating in near future. Thus we need t
 
 Motivation for this project comes from some obstacles encounterd in the job search, some of which we have tried to elaborate here. Though there are many job search websites which provide a plethora of information about jobs available, one can not draw useful conclusions about the job market such as density of reasearch and development jobs for a mechanical engineer in medical device sector in state of Utah, without analysis of that information. In addition to that, job openings in most of the industries related to Mechanical Engineering are requirement oriented and have very short lead times for joining thus it would be interesting to see if there are any trends in job openings and use the information to benefit the job seekers to decide when to graduate. These are just few queries among other problems we intend to solve. 
 
-One more aspect of this project includes classification of jobs according to job function and sector, which will help an aspiring Graduate student to take an informed decision to select an area of interest (such as designing, manufacturing, robotics, energy systems).  
+One more aspect of this project includes classification of jobs according to job function and sector, which will help an aspiring Graduate student to make an informed decision to select an area of interest (such as designing, manufacturing, robotics, energy systems).  
 
 ## Project Objectives
 This project aims to be a tool for anyone entering the job market. The key objective of this project is the analysis of the job market which will include but will not be limited to
@@ -51,11 +51,11 @@ At this stage we intend to observe trends of job openings geographically as well
 
 We will first analyze the aggregated data to see geographical and annual trends. Also we will observe the effects of attributes over salary e.g. Pay rates vs. experience level and Pay rates vs. education level. 
 
-Secondly for classification purposes based on the size of the data we get from one website we will either divide one website's data into training and test data or use data from one website as training and data from another website as test data. We will use classification methods enlisted above and select the best suitable one to visualize the data in scatter plots
+Secondly, for classification purposes based on the size of the data we get from one website we will either divide one website's data into training and test data or use data from one website as training and data from another website as test data. We will use classification methods enlisted above and select the best suitable one to visualize the data in scatter plots
 
 ## Project Schedule
 
-We have 5 weeks till the presentation date 
+We have 5 weeks until the presentation date 
 
 Week 1 - Data aquisition and cleaning
 
