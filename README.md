@@ -2,6 +2,10 @@
 Authors: Sameer NANDIKAR, Byron ENG <br>
 CS 5963 / MATH 3900 <br>
 
+## Add BLS (Bureau of Labor Statistics) to the table of sources
+
+This could be a great source of data
+
 ## Construct some sample data
 
 This could be from as little as one of the web sites. I would like to have some code in place so we can test taking user input and mining the APIs for relevant data.
