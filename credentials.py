@@ -1,6 +1,0 @@
-USAJOBS_AGENT = "byron.eng@gmail.com"
-USAJOBS_KEY = "zMSiSmEw58JebBaFwlXa1nxDuoTqQfDJC25TCBA/bAs="
-CONSUMER_SECRET = ""
-ACCESS_TOKEN =	""
-ACCESS_TOKEN_SECRET = ""
-
