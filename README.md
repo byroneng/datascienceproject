@@ -20,3 +20,5 @@ This could be a great source of data
 I think one of our first steps should be to inventory which sites we can actually pull data from. For example, which ones have APIs and which ones can we crawl via search results based on user input (ie. User puts in "Mechanical Engineer", our program would need to crawl search results for "Mechanical Engineer".. I don't see that being possible from all sites.
 
 Note from class: We may need to consider accounting for high demand jobs that will have a flux of offers at the end of semesters. These could be due to students being offered jobs, and companies "going through the motions" of posting the job.
+
+#11.12.2016 Today I have got data from indeed api in xml format and I am looking into element tree libriary for extracting the data from it. 
